@@ -33,7 +33,7 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+ git remote add origin https://github.com/sahilmn1/E-Commerce.git
 ```
 
 ### Navigate to the project directory
@@ -148,6 +148,3 @@ Once both servers are running, you can access them at the following URL's:
 
 ## **Bonus**
 Don't forget to star the repository and share your feedback!✨
-
-## Authors
-- [@RishiBakshii](https://github.com/RishiBakshii)
